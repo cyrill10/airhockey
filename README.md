@@ -1,2 +1,0 @@
-# airhockey
-Created with CodeSandbox
